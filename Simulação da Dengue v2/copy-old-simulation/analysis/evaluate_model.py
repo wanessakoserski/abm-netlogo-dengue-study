@@ -1,7 +1,7 @@
 # analysis/evaluate_model.py
 import numpy as np
 import pandas as pd
-from matplotlib import pyplot as plt
+import matplotlib.pyplot as plt
 
 def calculate_confidence_interval(results, confidence=0.95):
     """
@@ -48,7 +48,7 @@ def run_multiple_simulations(model_class, params, n_simulations=100, steps=365):
         final_data = {
             "simulation": i,
             "total_infected": model.people_count_with_dengue,
-            "total_recovered": model.people_count_recovered,
+            "total_recovered": model.people_count_recovered_from_dengue,
             "total_deaths_common": model.people_count_death_common,
             "total_deaths_dengue": model.people_count_death_dengue,
             "infected_mosquitoes": model.mosquitoes_count_with_dengue,

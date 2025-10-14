@@ -1,0 +1,16 @@
+scenario,simulation,total_infected,total_deaths_dengue,total_mosquitoes
+Realista,0,0,4,27
+Realista,1,0,4,7
+Realista,2,1,5,4
+Realista,3,1,2,4
+Realista,4,0,1,63
+Epidemia,0,0,9,17
+Epidemia,1,0,8,4
+Epidemia,2,0,11,21
+Epidemia,3,0,10,17
+Epidemia,4,0,4,21
+Controle,0,0,3,26
+Controle,1,0,2,7
+Controle,2,0,1,24
+Controle,3,0,1,7
+Controle,4,0,0,5

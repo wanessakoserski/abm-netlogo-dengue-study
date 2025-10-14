@@ -1,0 +1,4 @@
+simulation,total_infected,total_recovered,total_deaths_common,total_deaths_dengue,infected_mosquitoes,total_mosquitoes
+0,2,2,6,0,12,272
+1,4,1,6,2,28,501
+2,5,3,9,1,25,431

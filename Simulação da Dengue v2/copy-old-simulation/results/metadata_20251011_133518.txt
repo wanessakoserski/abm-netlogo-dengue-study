@@ -1,0 +1,11 @@
+METADADOS DA SIMULAÇÃO
+==================================================
+
+População real: 100,000
+Fator de escala: 1:100
+Taxa de ataque: 91.70%
+Taxa de letalidade: 42.11%
+Pico no dia: 189
+Casos no pico: 54,800
+
+Timestamp: 20251011_133518
