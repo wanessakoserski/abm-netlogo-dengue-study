@@ -2,10 +2,6 @@
 
 > Modelo baseado em agentes para simular a propagação de dengue em populações urbanas
 
-[![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
-[![Mesa](https://img.shields.io/badge/Mesa-ABM-green.svg)](https://mesa.readthedocs.io/)
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-
 ---
 
 ## 📋 Índice
@@ -427,8 +423,6 @@ python simulation_realistic_city.py
 ---
 
 <div align="center">
-
-**Feito com ❤️ e 🐍 Python**
 
 [⬆ Voltar ao topo](#-simulação-de-dengue-usando-agent-based-modeling-abm)
 
